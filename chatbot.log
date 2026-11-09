@@ -1,0 +1,6 @@
+2026-11-09 10:58:47,491 - INFO - Input::::your token for stoic is 120
+2026-11-09 10:58:47,491 - INFO - AFC is enabled with max remote calls: 10.
+2026-11-09 10:58:47,703 - INFO - Input::::your token for islamic is 122
+2026-11-09 10:58:47,704 - INFO - AFC is enabled with max remote calls: 10.
+2026-11-09 10:58:48,855 - INFO - Output::::::token consumption stoic 202
+2026-11-09 10:58:48,941 - INFO - Output::::::token consumption islamic 207
